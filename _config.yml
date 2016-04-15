@@ -1,0 +1,28 @@
+name: The Modern Domestic
+favicon: null
+layout_spectrum: 0.17855587624944746
+typography_spectrum: 0.3946778178215027
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors:
+    - '#E0FBFC'
+    - '#C2DFE3'
+    - '#9DB4C0'
+    - '#5C6B73'
+    - '#253237'
+  brandStrength: 0.9235999584197998
+  lightness: 0.6029245518147945
+  saturation: 0.9112958733458072
+  rhythmicContrast: 0.6416325138416141
+purpose: []
